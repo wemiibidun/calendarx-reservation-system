@@ -4,7 +4,7 @@ An interactive reservation app that lets users add, edit, and visualize time-bas
 
 ---
 
-##Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)  
 - [Screenshot](#screenshot)  
