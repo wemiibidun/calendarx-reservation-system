@@ -1,6 +1,6 @@
 # CalendarX Reservation System
 
-An interactive, beginner-friendly reservation app that lets users add, edit, and visualize time-based bookings — all without refreshing the page!
+An interactive reservation app that lets users add, edit, and visualize time-based bookings — all without refreshing the page!
 
 ---
 
