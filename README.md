@@ -25,7 +25,7 @@ An interactive reservation app that lets users add, edit, and visualize time-bas
 
 ## Screenshot
 
->  _[Add your image here once pushed]_  
+![CalendarX Reservation System Screenshot](https://github.com/wemiibidun/dynamic-todo-list/blob/main/dynamic-todo-list.png)
 You can upload a screenshot of the full app UI and use the link from GitHub after the first push.
 
 ---
