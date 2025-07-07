@@ -70,8 +70,7 @@ Manage reservations:
 
 ## Link to Live Demo
 
-🔗 [View the Live CalendarX App](https://wemiibidun.github.io/calendarx-reservation/)  
-> _(Update this after your first GitHub Pages deployment)_
+🔗 [View the Live CalendarX App](https://wemiibidun.github.io/calendarx-reservation/) 
 
 ---
 
