@@ -25,7 +25,7 @@ An interactive reservation app that lets users add, edit, and visualize time-bas
 
 ## Screenshot
 
-![CalendarX Reservation System Screenshot](https://github.com/wemiibidun/dynamic-todo-list/blob/main/dynamic-todo-list.png)
+![CalendarX Reservation System Screenshot](https://github.com/wemiibidun/calendarx-reservation-system/blob/main/calendarX-reservation-system.png)
 
 ---
 
@@ -61,10 +61,10 @@ Manage reservations:
 - Delete any reservation  
 - Reservations are saved to **localStorage**  
 - Duplicate/conflicting time checks  
-- Automatically re-renders chart on screen resize  
+- Automatically re-renders the chart on screen resize  
 - Responsive and mobile-friendly UI  
 - Friendly hover animations and background visuals  
-- No data? Shows a helpful “No Data” message in chart section
+- No data? Shows a helpful “No Data” message in the chart section
 
 ---
 
